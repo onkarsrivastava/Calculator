@@ -1,0 +1,18 @@
+body{
+    margin: 200px 600px 400px 600px;
+    border: 2px;
+    border-style: outset;
+    padding: 20px 20px 20px 20px;
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+    
+}
+h1{
+    text-align: center;
+}
+input[type=button]
+{
+    width: 100%;
+    background-color: burlywood;
+    border: 1px solid;
+
+}
